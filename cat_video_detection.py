@@ -1,5 +1,4 @@
 import cv2 
-import os
 
 cap = cv2.VideoCapture('cat.mp4')
 while(cap.isOpened()):
