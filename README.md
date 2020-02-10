@@ -8,4 +8,4 @@ Detecting objects using haar cascade seems not work in practical uses. if you tr
 <br /><br /> • **Results** <br /><br />
 ![result](https://user-images.githubusercontent.com/56642026/74125120-e6910580-4c06-11ea-91f2-46d98f7d5834.PNG)
 <br /><br /> • **Reference**<br />
-[Pyimagesearch](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/)
+[Pyimagesearch/Detecting cat in image](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/)
