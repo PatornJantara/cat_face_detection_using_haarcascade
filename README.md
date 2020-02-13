@@ -2,7 +2,7 @@
 - **Requirements**
   - OpenCV
 <br />
-This project i got inspiration from  Pyimagesearch and I have adapted code for easily utilizing.
+This project i got inspiration from  Pyimagesearch and I had adapted code for easily utilizing.
 Detecting objects using haar cascade seems not work in practical uses. if you try to use this method for real-time detection. The main problem is low precision and accuracy. It always occurs when noise object hiding your target object. You can fix it by adjusting detectMultiScale
 
 <br /><br /> • **Results** <br /><br />
