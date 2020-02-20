@@ -19,9 +19,6 @@ while(cap.isOpened()):
     cv2.imshow("Cat Faces", frame)
     k = cv2.waitKey(1)
     if  k%256 == 27:
-        arduino.write(b'0')
-        time.sleep(1)
-        # Q pressed to exit
         break
     
 cap.release()
